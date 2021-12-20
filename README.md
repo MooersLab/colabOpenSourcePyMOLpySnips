@@ -3,10 +3,10 @@
 ## Library of PyMOL Python snippets for installing and running Open Source PyMOL on Google Colab via a Colab notebook
 
 ### version 0.2
+### Go [here](https://github.com/MooersLab/colabpymolpysnips/edit/main/README.md) for the variant for the Incentive PyMOL.
 
 Click on Colab bage to open notebook on Colab:
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mooerslab/colabOpenSourcePyMOLpySnips/blob/master/colabOpenSourcePyMOLpySnips02.ipynb)
-
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mooerslab/colabOpenSourcePyMOLpySnips/blob/main/colabOpenSourcePyMOLpySnips02.ipynb)
 
 See the first cell in the notebook for install instructions.
 
