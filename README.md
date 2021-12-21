@@ -56,7 +56,7 @@ Paste the URL onto the line `Custom snippet notebook URL`:
 
 ### Step 6: Insert the installPyMOL snippet into the new notebook and Run
 
-<p align="center"><img src="images/installIncentivePyMOL.png"></p>
+<p align="center"><img src="images/installPyMOLOpenSource.png"></p>
 
 
 This takes 5-10 mintues. Ignore this warning:
