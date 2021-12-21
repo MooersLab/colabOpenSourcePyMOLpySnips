@@ -51,17 +51,13 @@ Paste the URL onto the line `Custom snippet notebook URL`:
 
 ### Step 5: Seach for the installPyMOL snippet
 
-<p align="center"><img src="images/snippetSearch.png"></p>
+<p align="center"><img src="images/searchInstallPyMOL.png"></p>
 
 
-### Step 6: Insert the installPyMOL snippet into the new notebook
+### Step 6: Insert the installPyMOL snippet into the new notebook and Run
 
-<p align="center"><img src="images/openNewNotebook.png"></p>
+<p align="center"><img src="images/installIncentivePyMOL.png"></p>
 
-
-### Step 7: Run the installPyMOL snippet 
-
-<p align="center"><img src="images/openNewNotebook.png"></p>
 
 This takes 5-10 mintues. Ignore this warning:
 
@@ -77,7 +73,7 @@ The result should be the following image:
 <p align="center"><img src="images/testResult.png"></p>
 
 
-
+### Step 9: Save finished notebook to Google Drive or Download the Colab notebook
 
 
 
