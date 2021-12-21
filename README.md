@@ -73,7 +73,7 @@ The result should be the following image:
 <p align="center"><img src="images/testResult.png"></p>
 
 
-### Step 9: Save finished notebook to Google Drive or Download the Colab notebook
+### Step 9: Save finished notebook to Google Drive or download the Colab notebook
 
 
 
