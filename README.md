@@ -23,7 +23,7 @@ Pre-repuisite: a Google Drive account.
 This action will open the snippet notebook on Colab.
 The top of the screen should look like the following:
 
-<p align="center"><img src="images/saveSnippetNotebookToGoogleDrive.png"></p>
+<p align="center"><img src="images/topOFSnippetNotebook.png"></p>
 
 
 ### Step 2: Copy the snippet notebook to Google Drive
