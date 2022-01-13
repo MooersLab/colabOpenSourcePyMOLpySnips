@@ -10,11 +10,11 @@ Click on Colab bage to open notebook on Colab:
 
 See the first cell in the notebook for install instructions.
 
-The `installPyMOL` snippet will install PyMOL in one click of a button.
-The install process takes 5-10 minutes so be patient.
+The `installPyMOL` snippet will install PyMOL with one click of a button.
+The install process takes 5-10 minutes, so be patient.
 A progress bar monitors the progress of the installation. 
 
-This readme file is still a work in progress.
+This readme file is a work in progress.
 
 Pre-repuisite: a Google Drive account.
 
@@ -29,11 +29,11 @@ The top of the screen should look like the following:
 ### Step 2: Copy the snippet notebook to Google Drive
 
 Use the `File/Save copy in Drive` pulldown menu item. 
-If you ran some code cells, you may get a message like the following:
+If you run some code cells, you might get a message like the following:
 
 <p align="center"><img src="images/saveSnippetNotebookToGoogleDrive.png"></p>
 
-Ignore this warning. Cleck on `run anyway`i
+Ignore this warning. Click on `run anyway`i
 <p align="center"><img src="images/ignoreWarningAboutAuthorship.png"></p>
 
 
@@ -54,7 +54,7 @@ Paste the URL onto the line `Custom snippet notebook URL`:
 <p align="center"><img src="images/searchInstallPyMOL.png"></p>
 
 
-### Step 6: Insert the installPyMOL snippet into the new notebook and Run
+### Step 6: Insert the installPyMOL snippet into the new notebook and run
 
 <p align="center"><img src="images/installPyMOLOpenSource.png"></p>
 
@@ -68,7 +68,7 @@ This takes 5-10 mintues. Ignore this warning:
 
 <p align="center"><img src="images/testPyMOL.png"></p>
 
-The result should be the following image:
+The result look like the following image:
 
 <p align="center"><img src="images/testResult.png"></p>
 
