@@ -3,7 +3,7 @@
 ## Library of PyMOL Python snippets for installing and running Open Source PyMOL on Google Colab via a Colab notebook
 
 ### version 0.2
-### Go [here](https://github.com/MooersLab/colabpymolpysnips/edit/main/README.md) for the variant for the Incentive PyMOL.
+### Click [here](https://github.com/MooersLab/colabpymolpysnips/edit/main/README.md) for the notebook for the Incentive PyMOL.
 
 Click on Colab bage to open notebook on Colab:
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mooerslab/colabOpenSourcePyMOLpySnips/blob/main/colabOpenSourcePyMOLpySnips02.ipynb)
@@ -59,12 +59,12 @@ Paste the URL onto the line `Custom snippet notebook URL`:
 <p align="center"><img src="images/installPyMOLOpenSource.png"></p>
 
 
-This takes 5-10 mintues. Ignore this warning:
+This step takes 5-10 mintues. Ignore this warning:
 
 <p align="center"><img src="images/ignoreThisError.png"></p>
 
 
-### Step 8: Insert the testPyMOL snippet and run
+### Step 7: Insert the testPyMOL snippet and run
 
 <p align="center"><img src="images/testPyMOL.png"></p>
 
@@ -73,7 +73,7 @@ The result look like the following image:
 <p align="center"><img src="images/testResult.png"></p>
 
 
-### Step 9: Save finished notebook to Google Drive or download the Colab notebook
+### Step 8: Save finished notebook to Google Drive or download the Colab notebook
 
 
 
